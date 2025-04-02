@@ -1,0 +1,71 @@
+/* Structure */
+body
+{
+ margin: 10px;
+ padding: 0px;
+}
+div#header
+{
+ margin: 0px;
+ padding: 1%;
+ clear: both;
+ height: 5%;  
+}
+div#left
+{
+ margin: 0px;
+ padding: 1%;
+ float: left;
+ width: 20%;
+ height: auto; 
+}
+- 25/36 -
+- Conception de site Internet : HTML & CSS -
+div#right
+{
+ margin: 0px;
+ padding: 1%;
+ float: right;
+ height: 80%;
+ width: 10%;
+}
+div#middle
+{
+ float: left;
+ width: 60%;
+ margin: 1%;
+ padding: 1%;
+}
+div#footer
+{
+ margin: 0px;
+ padding: 1%;
+ height: auto;
+ clear: both;
+}
+/* Décoration */
+div#header
+{
+ border: 2px dashed #FF8822;
+ color: #FF8822;   
+}
+div#left
+{
+ border: 2px dashed rgb(51, 204, 255);
+ color: rgb(51, 204, 255);
+}
+div#right
+{
+ border: 2px dashed #2288FF;
+ color: #2288FF;
+}
+div#middle
+{
+ border: 2px dashed blue;
+ color: blue;
+}
+div#footer
+{
+ border: 2px dashed red;
+ color: red;
+}

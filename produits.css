@@ -1,0 +1,51 @@
+<style>
+        table {
+            width: auto; /* Ajuste la largeur au contenu */
+            border-collapse: collapse; /* Fusionne les bordures */
+            margin: 20px auto; /* Centre le tableau */
+            font-family: Arial, sans-serif;
+        }
+        td, th {
+            padding: 8px;
+            text-align: left;
+            border: 1px solid black;
+            length:  2px: ;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        img {
+            max-width: 110px;
+            max-lenght: 120px;
+            display: block;
+            margin: 0 auto;
+        }
+
+        td colspan {
+            padding: 4px;
+            text-align: left;
+            border: 1px solid black;
+
+        }
+
+      .case-av {
+        width:  80px; 
+      }
+
+      .case-pratique {
+        width:  auto; 
+      }
+
+
+    </style>
+
+
+    .container {
+            display: flex; /* Aligne les éléments côte à côte */
+            align-items: center; /* Centre verticalement */
+        }
+        .av-175 {
+            font-weight: bold;
+            margin-right: 10px; /* Espace entre "AV 175" et "Pratique" */
+        }
+    </style>
