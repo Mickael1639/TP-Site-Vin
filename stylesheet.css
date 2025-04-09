@@ -222,7 +222,7 @@ textarea
 
 body 
 { 
-   background-image: url(images/fond.jpg); 
+   background-image: url(fond.jpg); 
    background-repeat: repeat-y;
    /*background-position: left;*/
    font-family: Arial;    
